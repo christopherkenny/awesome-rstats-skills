@@ -62,6 +62,7 @@ Full repositories of R-focused skills worth browsing.
 
 - [posit-dev/skills](https://github.com/posit-dev/skills) by [@posit-dev](https://github.com/posit-dev) - Collection of skills from Posit covering R package development, Shiny, Quarto, and developer workflows.
 - [claude-code-r-skills](https://github.com/ab604/claude-code-r-skills) by [@ab604](https://github.com/ab604) - Comprehensive Claude Code configuration for R development with 8 skills spanning tidyverse, performance, OOP, Bayesian methods, package development, and TDD.
+- [jeremy-allen/claude-skills/](https://github.com/jeremy-allen/claude-skills/) by [@jeremy-allen](https://github.com/jeremy-allen/) - Claude agent skills for using R's tidyverse. Mostly Derived from [Sarah Johnson's stellar CLAUDE.md](https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad).
 
 ## Tutorials and blogs
 
