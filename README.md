@@ -45,7 +45,6 @@ Skills for package development workflows.
 
 - [r-package-development](https://github.com/ab604/claude-code-r-skills/tree/main/.claude/skills/r-package-development) by [@ab604](https://github.com/ab604) - Guides R package creation covering dependencies, API design, testing, documentation, and release workflows.
 - [testing-r-packages](https://github.com/posit-dev/skills/blob/main/r-lib/testing-r-packages/SKILL.md) by [@posit-dev](https://github.com/posit-dev) - Guides test suite development for R packages using `testthat` 3+, covering test structure, expectations, fixtures, snapshots, and mocking.
-- [pkgskills](https://github.com/api2r/pkgskills/) by [@jonthegeek](https://github.com/jonthegeek) - A collection of curated, opinionated skills and agent instructions to improve agentic coding of R packages.
 
 ### CRAN submission help
 
@@ -67,6 +66,7 @@ Full repositories of R-focused skills worth browsing.
 - [skills](https://github.com/posit-dev/skills) by [@posit-dev](https://github.com/posit-dev) - Collection of skills from Posit covering R package development, Shiny, Quarto, and developer workflows.
 - [claude-code-r-skills](https://github.com/ab604/claude-code-r-skills) by [@ab604](https://github.com/ab604) - Comprehensive Claude Code configuration for R development with 8 skills spanning tidyverse, performance, OOP, Bayesian methods, package development, and TDD.
 - [claude-skills](https://github.com/jeremy-allen/claude-skills/) by [@jeremy-allen](https://github.com/jeremy-allen/) - Claude agent skills for using R's tidyverse. Mostly Derived from [Sarah Johnson's stellar CLAUDE.md](https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad).
+- [pkgskills](https://github.com/api2r/pkgskills/) by [@jonthegeek](https://github.com/jonthegeek) - A collection of curated, opinionated skills and agent instructions to improve agentic coding of R packages.
 
 ## Tutorials and blogs
 
