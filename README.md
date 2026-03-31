@@ -31,6 +31,7 @@ General skills for programming patterns.
 - [r-analyst](https://github.com/nealcaren/social-data-analysis/tree/main/plugins/r-analyst/skills/r-analyst) by [@nealcaren](https://github.com/nealcaren) - Guides a systematic, phased workflow for conducting publication-ready statistical analysis in R, emphasizing research design before estimation and robust sensitivity testing.
 - [ds-assistant](https://github.com/chendakeng/claude-code-skill-ds-assistant/tree/main/skills/ds-assistant) by [@chendakeng](https://github.com/chendakeng) - Tools for general purpose data science assistant with instructions for Shiny and Quarto.
 - [event-studies](https://github.com/dariia-m/my_claude_skills/tree/main/event-studies) by [@dariia-m](https://github.com/dariia-m) - Covers many differences-in-differences methods from classic fixed effect regressions to modern staggered adoption methods
+- [base-r-skill](https://github.com/iremaydas/base-r-skill) by [@iremaydas](https://github.com/iremaydas) -  Provides base R programming guidance covering data structures, data wrangling, statistical modeling, visualization, and I/O.
 
 ### Tidyverse
 
