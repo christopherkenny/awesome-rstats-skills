@@ -32,6 +32,7 @@ General skills for programming patterns.
 - [ds-assistant](https://github.com/chendakeng/claude-code-skill-ds-assistant/tree/main/skills/ds-assistant) by [@chendakeng](https://github.com/chendakeng) - Tools for general purpose data science assistant with instructions for Shiny and Quarto.
 - [event-studies](https://github.com/dariia-m/my_claude_skills/tree/main/event-studies) by [@dariia-m](https://github.com/dariia-m) - Covers many differences-in-differences methods from classic fixed effect regressions to modern staggered adoption methods
 - [base-r-skill](https://github.com/iremaydas/base-r-skill) by [@iremaydas](https://github.com/iremaydas) -  Provides base R programming guidance covering data structures, data wrangling, statistical modeling, visualization, and I/O.
+- [tidy-r-skill](https://github.com/statzhero/tidy-r-skill) by [@statzhero](https://github.com/statzhero) -  An LLM skill for modern tidyverse R using R 4.5+, tidyverse 2.0+, and dplyr 1.2+.
 
 ### Tidyverse
 
