@@ -38,7 +38,7 @@ General skills for programming patterns.
 Skills for writing idiomatic tidyverse code.
 
 - [tidyverse-patterns](https://github.com/ab604/claude-code-r-skills/tree/main/.claude/skills/tidyverse-patterns) by [@ab604](https://github.com/ab604) - Modern `tidyverse` patterns covering pipes, joins, grouping, `purrr`, and `stringr` for writing current best-practice R code.
-- 
+- [tidy-r-skill](https://github.com/statzhero/tidy-r-skill) by [@statzhero](https://github.com/statzhero) -  An LLM skill for modern tidyverse R using R 4.5+, tidyverse 2.0+, and dplyr 1.2+.
 
 ### Package development
 
