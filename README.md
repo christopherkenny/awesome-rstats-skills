@@ -44,6 +44,7 @@ Skills for writing idiomatic tidyverse code.
 
 Skills for package development workflows.
 
+- [pkgskills](https://github.com/api2r/pkgskills/) by [@jonthegeek](https://github.com/jonthegeek) - A collection of curated, opinionated skills and agent instructions to improve agentic coding of R packages.
 - [r-package-development](https://github.com/ab604/claude-code-r-skills/tree/main/.claude/skills/r-package-development) by [@ab604](https://github.com/ab604) - Guides R package creation covering dependencies, API design, testing, documentation, and release workflows.
 - [testing-r-packages](https://github.com/posit-dev/skills/blob/main/r-lib/testing-r-packages/SKILL.md) by [@posit-dev](https://github.com/posit-dev) - Guides test suite development for R packages using `testthat` 3+, covering test structure, expectations, fixtures, snapshots, and mocking.
 
