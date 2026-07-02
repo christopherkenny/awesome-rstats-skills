@@ -13,6 +13,7 @@ This list focuses on skills useful for R users.
 - [Package Development](#package-development)
 - [CRAN Submission Help](#cran-submission-help)
 - [Performance](#performance)
+- [Reproducible Pipelines](#reproducible-pipelines)
 - [Skill Collections](#skill-collections)
 - [Tutorials and Blogs](#tutorials-and-blogs)
 
@@ -60,6 +61,12 @@ Skills for profiling, benchmarking, and optimizing R code.
 
 - [r-performance](https://github.com/ab604/claude-code-r-skills/tree/main/.claude/skills/r-performance) by [@ab604](https://github.com/ab604) - Teaches R performance optimization through profiling and benchmarking with `profvis`, `bench::mark`, `vctrs`, and parallel processing, including decision guidance on `data.table` vs `dplyr` trade-offs.
 
+### Reproducible pipelines
+
+Skills for building reproducible analysis pipelines.
+
+- [targets-r-skill](https://github.com/statzhero/targets-r-skill) by [@statzhero](https://github.com/statzhero) - Guides `_targets.R` pipeline authoring for `targets` >= 1.12 and `tarchetypes` >= 0.14.1, covering branching, storage formats, and Quarto/R Markdown integration.
+
 ## Skill collections
 
 Full repositories of R-focused skills worth browsing.
@@ -68,6 +75,7 @@ Full repositories of R-focused skills worth browsing.
 - [claude-code-r-skills](https://github.com/ab604/claude-code-r-skills) by [@ab604](https://github.com/ab604) - Comprehensive Claude Code configuration for R development with 8 skills spanning tidyverse, performance, OOP, Bayesian methods, package development, and TDD.
 - [claude-skills](https://github.com/jeremy-allen/claude-skills/) by [@jeremy-allen](https://github.com/jeremy-allen/) - Claude agent skills for using R's tidyverse. Mostly Derived from [Sarah Johnson's stellar CLAUDE.md](https://gist.github.com/sj-io/3828d64d0969f2a0f05297e59e6c15ad).
 - [pkgskills](https://github.com/api2r/pkgskills/) by [@jonthegeek](https://github.com/jonthegeek) - A collection of curated, opinionated skills and agent instructions to improve agentic coding of R packages.
+- [R-Skills](https://github.com/blankuzr/R-Skills) by [@blankuzr](https://github.com/blankuzr) - Bundle of 11 Claude/Codex skills covering R workspace setup, EDA, modeling, Shiny, package development, and tables/reporting.
 
 ## Tutorials and blogs
 
